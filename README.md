@@ -37,3 +37,6 @@ git push origin add-new-feature # push changes to forked repo
 
 ## Recommender System Competition 2022 
 * Repo link: https://github.com/nuumi-ai/Recommender-System-Competition-2022
+
+## Pandora:
+* Repo link: https://github.com/nuumi-ai/Pandora
