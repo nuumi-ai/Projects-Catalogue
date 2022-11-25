@@ -1,0 +1,6 @@
+[submodule "Perseus"]
+	path = Perseus
+	url = git@github.com:nuumi-ai/Perseus.git
+[submodule "Recommender-System-Competition-2022"]
+	path = Recommender-System-Competition-2022
+	url = git@github.com:nuumi-ai/Recommender-System-Competition-2022.git
