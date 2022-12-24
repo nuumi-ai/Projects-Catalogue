@@ -7,3 +7,6 @@
 [submodule "Pandora"]
 	path = Pandora
 	url = git@github.com:nuumi-ai/Pandora
+[submodule "System-Design"]
+	path = System-Design
+	url = git@github.com:nuumi-ai/System-Design.git

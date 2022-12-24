@@ -40,3 +40,6 @@ git push origin add-new-feature # push changes to forked repo
 
 ## Pandora:
 * Repo link: https://github.com/nuumi-ai/Pandora
+
+## System Design:
+* Repo link: https://github.com/nuumi-ai/System-Design
